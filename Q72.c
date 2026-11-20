@@ -13,7 +13,7 @@ int main()
     {
         for(j = 0; j < cols; j++)
         {
-            scanf("%d", &a[i][j];
+            scanf("%d", &a[i][j]);
             sum += a[i][j];
         }
     }
